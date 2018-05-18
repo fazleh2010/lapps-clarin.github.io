@@ -1,6 +1,6 @@
 # lapps-clarin.github.io
 
-This page contains links to documents and source code produced by the LAPPS-CLARIN project.
+This page contains links to documents and source code produced by the LAPPS-CLARIN project. All source code in the repositories is released under the [Apache2 license](https://www.apache.org/licenses/LICENSE-2.0) and all other documents are released under the [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by/4.0/).
 
 #### Source code repositories
 
