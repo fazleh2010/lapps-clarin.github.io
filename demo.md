@@ -14,3 +14,6 @@
 * WebLicht video and user guide 
 * Links to full LAPPS and [WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/)
 
+## Documentation
+
+- https://docs.google.com/document/d/1xeXld3V8T8kpny2vuz2aCAWtxA7MZAZMYBzcQ3pCJhI/edit#heading=h.4er8ywhwqusi
