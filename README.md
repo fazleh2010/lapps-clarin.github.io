@@ -4,7 +4,8 @@ This page contains links to documents and source code produced by the LAPPS-CLAR
 
 #### Source code repositories
 
-- [LIF to TCF Converter](https://github.com/lapps-clarin/service-lapps-converter)
+- [LIF to TCF Converter - core components](https://github.com/lapps-clarin/lapps-lif-library)
+- [LIF to TCF Converter - service wrapper](https://github.com/lapps-clarin/service-lapps-converter)
 - [TCF to LIF Converter - core components](https://github.com/lappsgrid-services/org.lappsgrid.converters.tcf)
 - [TCF to LIF Converter - service wrapper](https://github.com/lappsgrid-services/org.lappsgrid.converters.tcf.service)
 - [Library that extracts annotation layers from LIF](https://github.com/lapps-clarin/lapps-lif-library)
