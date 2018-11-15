@@ -13,5 +13,5 @@ WebLicht is an environment for building, executing, and visualizing the results 
     * Webcasts should be short and snappy.
 * LAPPS video and user guide
 * WebLicht video and user guide 
-* Links to full LAPPS and WebLicht[WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/)
+* Links to full LAPPS and [WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/)
 
