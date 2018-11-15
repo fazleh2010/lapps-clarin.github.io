@@ -3,8 +3,7 @@
 ## NLP Intro
 * Make clear that WL users have a WL experience and LAPPS users get a LAPPS experience. So WL users will be able to go to LIF/LAPPS for some other processing, but would go back to TCF for visualization.
 * intro to LAPPS
-* intro to WebLicht
-WebLicht is an environment for building, executing, and visualizing the results of NLP pipelines, which is integrated into the CLARIN infrastructure. WebLicht NLP tools consume and produce the Text Corpus Format (TCF) data, an XML format designed for use as an inter- nal data exchange format for WebLicht processing tools.
+* **WebLicht** is an environment for building, executing, and visualizing the results of NLP pipelines, which is integrated into the CLARIN infrastructure. WebLicht NLP tools consume and produce the **Text Corpus Format (TCF)** data, an XML format designed for use as an inter- nal data exchange format for WebLicht processing tools.
 * concepts: tokens, pos, NE, …
 * example(s) of aggregation
 
