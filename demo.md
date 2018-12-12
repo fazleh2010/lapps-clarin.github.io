@@ -11,7 +11,7 @@
 * Screencast to create and execute a simple tool chain including services from both LAPPS and CLARIN.
     * Webcasts should be short and snappy.
 * LAPPS video and user guide
-* WebLicht video and user guide 
+* [WebLicht video and user guide](http://sfs.uni-tuebingen.de/~meh/weblicht-lapps/)
 * Links to full LAPPS and [WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/)
 
 ## Documentation
