@@ -1,16 +1,44 @@
+
 # LAPPS-CLARIN Integration Demo
 
+This page provides a link to and explanation of a small-scale demonstration of the LAPPS-CLARIN integration. The focus is on how users of CLARIN's WebLicht can access services on LAPPS and vice versa.
+
+
+## WebLicht and LAPPS
+
+WebLicht and LAPPS are both environments for building, executing, and visualizing the results of NLP pipelines. WebLicht NLP tools consume and produce the Text Corpus Format (TCF) data, an XML format designed for use as an internal data exchange format for WebLicht processing tools. LAPPS tools use the LAPPS Interchange Format (LIF), which is based on JSON-LD. While integrating LAPPS tools into WebLicht and WebLicht tools into LAPPS the major guiding principle was that a WebLicht user would get a WebLicht experience and a LAPPS user a LAPPS experience. Therefore, this demo has two parts: one of
+
+
 ## NLP Intro
-* Make clear that WL users have a WL experience and LAPPS users get a LAPPS experience. So WL users will be able to go to LIF/LAPPS for some other processing, but would go back to TCF for visualization.
-* intro to LAPPS
-* intro to WebLicht
-* concepts: tokens, pos, NE, …
-* example(s) of aggregation
 
-## Showcase
-* Screencast to create and execute a simple tool chain including services from both LAPPS and CLARIN.
-    * Webcasts should be short and snappy.
-* LAPPS video and user guide
-* WebLicht video and user guide (https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/)
-* Links to full LAPPS and WebLicht
+This section has a description of the NLP tools that are included in the LAPPS-CLARIN integration.
 
+* concepts: tokens, sentences, pos, NE, parsers
+* use example sentence with all annotations, using BRAT/GraphViz
+
+
+## WebLicht demo
+
+This demo is available at [WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/)
+
+For this demo you need credentials that allow you to log in as a WebLicht user. Check out the [WebLicht video and user guide](http://sfs.uni-tuebingen.de/~meh/weblicht-lapps/) for pointers on how to use WebLicht.
+
+
+## LAPPS demo
+
+This demo is available at [LAPPS](http://mellon.lappsgrid.org/).
+
+LAPPS uses Galaxy as a front end for all user interactions. Users first need to create an account on the Galaxy server to get full functionality (without this, visualizations will fail). Creating an account is a pain-free process of creating an account name and password.
+
+There is a video at XXXX to show you how to use LAPPS and access WebLicht tools. To learn more about Galaxy go to [Learn Galaxy](https://galaxyproject.org/learn/) or to [Galaxy 101](https://galaxyproject.org/tutorials/g101/), the basic introduction to Galaxy's interface, its functionality, and workflows.
+
+
+
+## Some other notes that will in the page presented to users
+
+- Screencast to create and execute a simple tool chain including services from both LAPPS and CLARIN.
+   - Webcasts should be short and snappy.
+- LAPPS video and user guide
+- WebLicht video and user guide
+
+- [demo requirements](https://docs.google.com/document/d/1xeXld3V8T8kpny2vuz2aCAWtxA7MZAZMYBzcQ3pCJhI/edit#heading=h.4er8ywhwqusi) (this will not be
