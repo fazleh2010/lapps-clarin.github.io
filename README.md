@@ -8,8 +8,8 @@ All source code created in the course of the project is available in the project
 
 - [LIF to TCF Converter - core components](https://github.com/lapps-clarin/lapps-lif-library)
 - [LIF to TCF Converter - service wrapper](https://github.com/lapps-clarin/service-lapps-converter)
-- [TCF to LIF Converter - core components](https://github.com/lappsgrid-services/org.lappsgrid.converters.tcf)
-- [TCF to LIF Converter - service wrapper](https://github.com/lappsgrid-services/org.lappsgrid.converters.tcf.service)
+- [TCF to LIF Converter - core components](https://github.com/lapps-clarin/org.lappsgrid.converters.tcf)
+- [TCF to LIF Converter - service wrapper](https://github.com/lapps-clarin/org.lappsgrid.converters.tcf.service)
 
 #### Documents and papers
 
