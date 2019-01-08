@@ -15,14 +15,14 @@ While integrating LAPPS tools into WebLicht and WebLicht tools into LAPPS the ma
 
 ## WebLicht demo
 
-This demo is available at https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/.
+This demo is available at [https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/](https://weblicht.sfs.uni-tuebingen.de/weblicht-lapps/).
 
 For this demo you need credentials that allow you to log in as a WebLicht user. There is a video at [WebLicht user guide](http://sfs.uni-tuebingen.de/~meh/weblicht-lapps/) to show you how to use LAPPS and access WebLicht tools.
 
 
 ## LAPPS demo
 
-This demo is available at http://mellon.lappsgrid.org/.
+This demo is available at [http://mellon.lappsgrid.org/](http://mellon.lappsgrid.org/).
 
 LAPPS uses Galaxy as a front end for all user interactions. Users first need to create an account on the Galaxy server to get full functionality (without this, visualizations will fail). Creating an account is a pain-free process of creating an account name and password.
 
